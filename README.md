@@ -3,7 +3,6 @@
 You reached sort of Eduard's home page.  
 No buzz or fancy words. Just stuff I'm doing ~~badly~~ daily.
 
-Ah.. I need to use these somewhere 😀 😀
 
 [![][jsnad]](https://www.youracclaim.com/badges/9fba938f-dee6-4d76-afad-791f0494ebdb/public_url) [![][jsnsd]](https://www.youracclaim.com/badges/7aea86db-7150-4c46-93cf-2728ae5aa62a/public_url)
 
