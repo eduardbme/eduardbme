@@ -3,7 +3,7 @@
 You reached sort of Eduard's home page.  
 No buzz or fancy words. Just stuff I'm doing ~~badly~~ daily.
 
-<img src="[Assets/icon.png](https://github.com/eduardbme/eduardbme/blob/master/ckad.png?raw=true)" width="200">
+<img src="./ckad.png" width="200">
 
 [![][ckad]](https://www.credly.com/badges/cf5b9af7-b04a-42e1-83b3-ef6e7730d641/public_url)
 [![][jsnad]](https://www.youracclaim.com/badges/9fba938f-dee6-4d76-afad-791f0494ebdb/public_url) [![][jsnsd]](https://www.youracclaim.com/badges/7aea86db-7150-4c46-93cf-2728ae5aa62a/public_url)
