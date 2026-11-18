@@ -3,8 +3,6 @@
 You reached sort of Eduard's home page.  
 No buzz or fancy words. Just stuff I'm doing ~~badly~~ daily.
 
-<br>
-
 <p>
 <a href="https://www.credly.com/badges/cf5b9af7-b04a-42e1-83b3-ef6e7730d641/public_url" target="_blank"><img src="./ckad.png" width="100"></a>
 </p>
